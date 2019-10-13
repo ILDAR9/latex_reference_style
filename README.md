@@ -24,3 +24,5 @@ c) Journal papers cited should be written in such a way as :
 d) Books cited should be written in such a way as :
 
 *Gardon A G, Wolfhard H G. Flames. 2nd ed. London: Chapman and Hall Led, 1960*
+
+![example references](example.png)
