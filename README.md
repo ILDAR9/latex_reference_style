@@ -25,4 +25,5 @@ d) Books cited should be written in such a way as :
 
 *Gardon A G, Wolfhard H G. Flames. 2nd ed. London: Chapman and Hall Led, 1960*
 
+#### Other examples
 ![example references](example.png)
